@@ -1,2 +1,2 @@
 # Consulta_Cep
- Site que completa os campos do form, assim que você colocar o seu cep
+ Página que completa os campos do form, assim que você colocar o seu cep
